@@ -1,10 +1,10 @@
 {
   "title": "Home",
   "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.",
-  "logo": "/images/uploads/logo.svg",
-  "icon": "/images/uploads/logo.png",
+  "welcomeText": "# Yo, This is Avid Collection. \n\n\n\nWe have varieties of items in our store ranging from stationary, gift items, cosmetics, and many more.",
+  "logo": "/images/uploads/logo-ref-2.png",
+  "icon": "/images/uploads/logo-ref-2.png",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "Get your stuffs here",
   "seoMetaImage": ""
 }
